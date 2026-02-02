@@ -1,5 +1,4 @@
 # Sequence-Prediction-using-CRF
-# Sequence Prediction using Conditional Random Fields (CRF)
 
 This repository contains a minimal implementation and experiment script for **sequence labeling / structured prediction** using a **Conditional Random Field (CRF)** model.
 
